@@ -1,0 +1,11 @@
+C:\Users\simon\Programmering\Programmering2\Abstrakta klasser\bin\Debug\netcoreapp2.2\Abstrakta klasser.deps.json
+C:\Users\simon\Programmering\Programmering2\Abstrakta klasser\bin\Debug\netcoreapp2.2\Abstrakta klasser.runtimeconfig.json
+C:\Users\simon\Programmering\Programmering2\Abstrakta klasser\bin\Debug\netcoreapp2.2\Abstrakta klasser.runtimeconfig.dev.json
+C:\Users\simon\Programmering\Programmering2\Abstrakta klasser\bin\Debug\netcoreapp2.2\Abstrakta klasser.dll
+C:\Users\simon\Programmering\Programmering2\Abstrakta klasser\bin\Debug\netcoreapp2.2\Abstrakta klasser.pdb
+C:\Users\simon\Programmering\Programmering2\Abstrakta klasser\obj\Debug\netcoreapp2.2\Abstrakta klasser.csprojAssemblyReference.cache
+C:\Users\simon\Programmering\Programmering2\Abstrakta klasser\obj\Debug\netcoreapp2.2\Abstrakta klasser.csproj.CoreCompileInputs.cache
+C:\Users\simon\Programmering\Programmering2\Abstrakta klasser\obj\Debug\netcoreapp2.2\Abstrakta klasser.AssemblyInfoInputs.cache
+C:\Users\simon\Programmering\Programmering2\Abstrakta klasser\obj\Debug\netcoreapp2.2\Abstrakta klasser.AssemblyInfo.cs
+C:\Users\simon\Programmering\Programmering2\Abstrakta klasser\obj\Debug\netcoreapp2.2\Abstrakta klasser.dll
+C:\Users\simon\Programmering\Programmering2\Abstrakta klasser\obj\Debug\netcoreapp2.2\Abstrakta klasser.pdb
